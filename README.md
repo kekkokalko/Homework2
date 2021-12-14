@@ -1,5 +1,5 @@
 # Homework2
-Workbook concerning: interpolation and approximation with least squares.
+Matlab workbook concerning: interpolation and approximation with least squares.
 
 This is the second part of a project implemented in Matlab. The first part is called "Homework1".
 
